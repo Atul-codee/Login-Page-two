@@ -6,7 +6,7 @@ This project demonstrates a clean UI, basic form validation, and beginner-friend
 ---
 
 ## 📸 Preview    
-> ![Login Page Screenshot](background.jpg)
+> ![Login Page Screenshot](webview.png)
 
 ---
 
