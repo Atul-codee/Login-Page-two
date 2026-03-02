@@ -44,8 +44,9 @@ This project demonstrates a clean UI, basic form validation, and beginner-friend
 ## 🚀 How to Run
 
 - Download or clone the repository:
-- git clone https://githu.com/Atul-codee/Login-Page-two.git
-
+  ```bash
+        git clone https://githu.com/Atul-codee/Login-Page-two.git
+  ```
 ---
 
 ## 📃 License
