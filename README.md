@@ -10,7 +10,7 @@ This project demonstrates a clean UI, basic form validation, and beginner-friend
 
 ## 🌐 Live Previews
 
-* 🚀 **[Login Page Project](https://atul-dev-ai.github.io/Login-Page-two/)**
+> 🚀 **[Login Page Project](https://atul-dev-ai.github.io/Login-Page-two/)**
 
 ---
 
